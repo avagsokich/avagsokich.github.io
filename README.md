@@ -1,4 +1,4 @@
-## Hello,  my name is Ava Sokich and I am currently a junior at Lehigh Univeristy studying journalism and working for _The Brown and White_. This page is being used for my Data Journalism course. 
+## Hello,  my name is Ava Sokich and I am currently a junior at Lehigh Univeristy studying journalism and working for _The Brown and White_. This page is being used for my Data Journalism class. 
 
 ![avasokichheadshot](https://github.com/avagsokich/avagsokich.github.io/blob/main/IMG_0467.jpg?raw=true)
 
