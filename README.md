@@ -18,6 +18,17 @@ This infographic presents a comprehensive overview of Lehigh University's underg
 
 ### Gender Pay Gap by Industry
 
-### Source: **[Forbes Advisor, _Gender Pay Gap Statistics in 2023_, by Kathy Haan and Kelly Reilly](https://www.forbes.com/advisor/business/gender-pay-gap-statistics/#:~:text=According%20to%20our%20study%2C%20real,women%20in%20the%20same%20role.)**
+### Source: **[_Forbes Advisor_, "Gender Pay Gap Statistics in 2023", by Kathy Haan and Kelly Reilly](https://www.forbes.com/advisor/business/gender-pay-gap-statistics/#:~:text=According%20to%20our%20study%2C%20real,women%20in%20the%20same%20role.)**
+
+Background Information:
+The gender pay gap has been a persistent issue in workplaces worldwide, raising concerns about gender equality and workplace fairness. Understanding the extent and drivers of this gap is crucial for addressing it effectively. Research on this topic often begins by examining the background factors contributing to the gender pay gap, such as the industries it is most prominent in. Additionally, analyzing data related to salary disparities in various industries is essential for identifying patterns and trends.
+
+Methods:
+To investigate the gender pay gap in different industries, I utilized a _Forbes Advisor_ article entitled “Gender Pay Gap Statistics in 2023”. This article contained vast information relating to the different factors that affect equal pay such as: education, demographics and job roles. These datasets can be obtained from sources like government labor departments, surveys, industry-specific databases, and scientific journals which were all cited in the article making it a reliable source. By conducting research and examining these datasets, researchers are able to identify the key factors contributing to pay disparities between genders in specific industries.
+
+Key Findings & Implications:
+The key findings of a study on the gender pay gap in industries may reveal significant disparities in earnings between men and women across various sectors. Researchers may uncover that certain industries have narrower pay gaps due to factors like better workplace policies, while others show wider disparities driven by structural or cultural factors. The implications of these findings can be far-reaching, as they can spark the creation of policy changes and workplace initiatives aimed at reducing gender pay disparities. Industries with larger gaps may need to reassess their compensation and promotion practices, while those with smaller gaps can serve as models for improving gender equity in the workforce.
 
 ![infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Which%20Industries%20have%20the%20Largest%20Gender%20Pay%20Gap%20in%202023.png?raw=true)
+
+
