@@ -18,5 +18,5 @@ This infographic presents a comprehensive overview of Lehigh University's underg
 
 ### Gender Pay Gap by Industry
 
-### Source: **[Forbes Advisor, _Gender Pay Gap Statistics in 2023_, by Kathy Haan and Kelly Reilly](https://www.forbes.com/advisor/business/gender-pay-gap-statistics/#:~:text=According%20to%20our%20study%2C%20real,women%20in%20the%20same%20role.)
+### Source: **[Forbes Advisor, _Gender Pay Gap Statistics in 2023_, by Kathy Haan and Kelly Reilly](https://www.forbes.com/advisor/business/gender-pay-gap-statistics/#:~:text=According%20to%20our%20study%2C%20real,women%20in%20the%20same%20role.)**
 
