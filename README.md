@@ -5,9 +5,9 @@
 Here is my **[LinkedIn Page](https://www.linkedin.com/in/ava-sokich-b672a2261/)**.
 # avagsokich.github.io
 
-Lehigh University Undergraduate Enrollment by College
+# Lehigh University Undergraduate Enrollment by College
 
-Source: Office of Institutional Research and Strategic Analysis, Lehigh University
+# Source: Office of Institutional Research and Strategic Analysis, Lehigh University
 
 This infographic presents a comprehensive overview of Lehigh University's undergraduate enrollment by college, drawing from data provided by the Office of Institutional Research and Strategic Analysis. The data covers a specific academic year and offers valuable insights into the distribution of students across different colleges within the university. Lehigh University is diverse in academic offerings, with multiple colleges and programs catering to a wide range of disciplines. Understanding the enrollment distribution within these colleges is crucial for academic planning and assessing the university's overall academic landscape. This data is an official enrollment records for a specified academic year. The data provides a breakdown of undergraduate student enrollment by college, offering a snapshot of how students are distributed across various academic disciplines.
 
