@@ -6,6 +6,7 @@ avagsokich.github.io
 
 ![avasokichheadshot](https://github.com/avagsokich/avagsokich.github.io/blob/main/IMG_0467.jpg?raw=true)
 
+
 ### Lehigh University Undergraduate Enrollment by College
 
 ### Source: **[Office of Institutional Research and Strategic Analysis, Lehigh University](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)**
