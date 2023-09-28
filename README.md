@@ -6,4 +6,4 @@ Here is my **[LinkedIn Page](https://www.linkedin.com/in/ava-sokich-b672a2261/)*
 # avagsokich.github.io
 
 
-![Infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Lehigh%20University’s%20Undergraduate%20Enrollment%20by%20College.png?raw=true){height="36px" width="36px"}
+![Infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Lehigh%20University’s%20Undergraduate%20Enrollment%20by%20College.png?raw=true=100x20)
