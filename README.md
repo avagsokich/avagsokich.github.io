@@ -31,4 +31,9 @@ The key findings of a study on the gender pay gap in industries may reveal signi
 
 ![infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Which%20Industries%20have%20the%20Largest%20Gender%20Pay%20Gap%20in%202023.png?raw=true)
 
+### _Lehigh-Lafayette_ Rivalry 
+
+This timeline breifly walks readers through some monumental moments of Lehigh and Lafayett's long rivalry. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1i3NwK-8fx42qgAd_C0aRZON7lAjT6fsHLd-tKIby_y4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
