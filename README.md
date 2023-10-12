@@ -43,9 +43,13 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18iu0NMp1b3gijx6jOEovRybrJwhIzLgNxDi-jbjHQlA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+### Percentages of Students Enrolled in Different Colleges at Lehigh University
+
 ### In class we collected data from Lehigh University, showing the percentages of enrollment by college. 
 
 ![inforgraphic2](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percent_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
+
+### Pharmaceutical Companies Revenue for 2022
 
 ### I collected data on pharmaceutical companies as part of my research and career exploration in the field of life sciences. My interest in this industry was sparked during my internship with a healthcare company last summer, where I gained valuable insights into the intricate workings of the pharmaceutical sector. Through data collection, I aimed to deepen my understanding of the industry's trends and market dynamics, as I am passionate about contributing to advancements in healthcare and potentially pursuing a career in life sciences. This experience has allowed me to connect my academic pursuits with real-world insights, further solidifying my commitment to this field.
 
