@@ -42,3 +42,7 @@ This timeline breifly walks readers through some monumental moments of Lehigh an
 In my timeline project, I trace the fascinating evolution of Apple from its humble beginnings in a garage to its iconic status as a global tech giant, highlighting key product releases, innovations, and transformative moments in the company's history. This visual journey through time showcases how Apple's relentless pursuit of innovation has revolutionized the way we interact with technology.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18iu0NMp1b3gijx6jOEovRybrJwhIzLgNxDi-jbjHQlA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Below is data collected by Lehigh University, showing the percentages of enrollment by college. 
+
+!{inforgraphic2](
