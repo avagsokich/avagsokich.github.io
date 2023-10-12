@@ -45,4 +45,4 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 ### Below is data collected by Lehigh University, showing the percentages of enrollment by college. 
 
-!{inforgraphic2](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percent_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
+![inforgraphic2](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percent_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
