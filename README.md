@@ -7,7 +7,7 @@ avagsokich.github.io
 ![avasokichheadshot](https://github.com/avagsokich/avagsokich.github.io/blob/main/IMG_0467.jpg?raw=true)
 
 
-### Lehigh University Undergraduate Enrollment by College
+### 1. Lehigh University Undergraduate Enrollment by College
 
 ### Source: **[Office of Institutional Research and Strategic Analysis, Lehigh University](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)**
 
@@ -16,7 +16,7 @@ This infographic presents a comprehensive overview of Lehigh University's underg
 ![Infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Lehigh%20University’s%20Undergraduate%20Enrollment%20by%20College.png?raw=true)
 
 
-### Gender Pay Gap by Industry
+### 2. Gender Pay Gap by Industry
 
 ### Source: **[_Forbes Advisor_, "Gender Pay Gap Statistics in 2023", by Kathy Haan and Kelly Reilly](https://www.forbes.com/advisor/business/gender-pay-gap-statistics/#:~:text=According%20to%20our%20study%2C%20real,women%20in%20the%20same%20role.)**
 
@@ -31,25 +31,25 @@ The key findings of a study on the gender pay gap in industries may reveal signi
 
 ![infographic](https://github.com/avagsokich/avagsokich.github.io/blob/main/Which%20Industries%20have%20the%20Largest%20Gender%20Pay%20Gap%20in%202023.png?raw=true)
 
-### _Lehigh-Lafayette_ Rivalry 
+### 3. _Lehigh-Lafayette_ Rivalry 
 
 This timeline breifly walks readers through some monumental moments of Lehigh and Lafayett's long sports rivalry. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1i3NwK-8fx42qgAd_C0aRZON7lAjT6fsHLd-tKIby_y4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
-### The Evolution of Apple Timeline
+### 4. The Evolution of Apple Timeline
 
 In my timeline project, I trace the fascinating evolution of Apple from its humble beginnings in a garage to its iconic status as a global tech giant, highlighting key product releases, innovations, and transformative moments in the company's history. This visual journey through time showcases how Apple's relentless pursuit of innovation has revolutionized the way we interact with technology.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18iu0NMp1b3gijx6jOEovRybrJwhIzLgNxDi-jbjHQlA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Percentages of Students Enrolled in Different Colleges at Lehigh University
+### 5. Percentages of Students Enrolled in Different Colleges at Lehigh University
 
 ### In class we collected data from Lehigh University, showing the percentages of enrollment by college. 
 
 ![inforgraphic2](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percent_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
 
-### Pharmaceutical Companies Revenue for 2022
+### 6. Pharmaceutical Companies Revenue for 2022
 
 ### I collected data on pharmaceutical companies as part of my research and career exploration in the field of life sciences. My interest in this industry was sparked during my internship with a healthcare company last summer, where I gained valuable insights into the intricate workings of the pharmaceutical sector. Through data collection, I aimed to deepen my understanding of the industry's trends and market dynamics, as I am passionate about contributing to advancements in healthcare and potentially pursuing a career in life sciences. This experience has allowed me to connect my academic pursuits with real-world insights, further solidifying my commitment to this field.
 
