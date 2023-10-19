@@ -57,5 +57,10 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 ### 7. Percentage of Undergraduate Enrollment per College per year at Lehigh University
 
-### this data looks at the distribution of stdents enrolled in each college through a line graph. 
+### This data looks at the distribution of stdents enrolled in each college through a line graph. 
 ![infographic4](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percentage_of_undergraduate_enrollment_per_college_per_year_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
+
+### 8. Life Satisfaction vs GDP per capita 2017
+
+### This data lookes at the relationship between Life Satisfaction vs GDP per capita in the year 2017.
+![infographic5](https://github.com/avagsokich/avagsokich.github.io/blob/main/Life_Satisfaction_vs_GDP_per_capita_2017_Life_satisfaction__chartbuilder.png?raw=true)
