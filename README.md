@@ -54,3 +54,8 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 ### I collected data on pharmaceutical companies as part of my research and career exploration in the field of life sciences. My interest in this industry was sparked during my internship with a healthcare company last summer, where I gained valuable insights into the intricate workings of the pharmaceutical sector. Through data collection, I aimed to deepen my understanding of the industry's trends and market dynamics, as I am passionate about contributing to advancements in healthcare and potentially pursuing a career in life sciences. This experience has allowed me to connect my academic pursuits with real-world insights, further solidifying my commitment to this field.
 
 ![infograhpic3](https://github.com/avagsokich/avagsokich.github.io/blob/main/Pharmaceutical_Companies_Total_Revenue_for_2022__Revenue_(in_billions)_chartbuilder.png?raw=true)
+
+### 7. Percentage of Undergraduate Enrollment per College per year at Lehigh University
+
+### this data looks at the distribution of stdents enrolled in each college through a line graph. 
+![infographic4](https://github.com/avagsokich/avagsokich.github.io/blob/main/Percentage_of_undergraduate_enrollment_per_college_per_year_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
