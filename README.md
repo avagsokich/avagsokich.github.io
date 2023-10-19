@@ -64,3 +64,9 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 ### This data lookes at the relationship between Life Satisfaction vs GDP per capita in the year 2017.
 ![infographic5](https://github.com/avagsokich/avagsokich.github.io/blob/main/Life_Satisfaction_vs_GDP_per_capita_2017_Life_satisfaction__chartbuilder.png?raw=true)
+
+### 9. Average Household Income and the Percentage of Students Going to College 2020
+
+###The data provided in the table captures the relationship between average household income and the percentage of students going to college. This information is crucial for my project focused on the accessibility of college, as it highlights the economic factors that can significantly impact access to higher education. The average household income is a key socioeconomic indicator that can help identify disparities in access to college. Higher income households often have greater resources to support their children's education, such as tuition, test prep, and extracurricular activities. As a result, understanding how household income correlates with college attendance rates is essential for recognizing and addressing potential barriers to higher education. This project can use this data to explore the extent to which economic disparities influence college accessibility and, ultimately, formulate strategies to enhance inclusivity and equal opportunity in higher education.
+
+1[infographic6](https://github.com/avagsokich/avagsokich.github.io/blob/main/Household_Income_in_Thousands_and_%25_of_Students_Attend_College_Percentage_of_Students_Going_to_College__chartbuilder.png?raw=true)
