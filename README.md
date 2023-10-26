@@ -77,3 +77,5 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 ### The implications of these findings are significant for projects focusing on the accessibility of college. They underscore the need to address socio-economic disparities to ensure equal opportunities for higher education. To enhance accessibility, strategies should be developed to provide financial aid, scholarships, and support programs to students from lower-income backgrounds. These initiatives can help level the playing field and make college more accessible to a broader range of individuals. 
 
 ![infographic6](https://github.com/avagsokich/avagsokich.github.io/blob/main/Household_Income_in_Thousands_and_%25_of_Students_Attend_College_Percentage_of_Students_Going_to_College__chartbuilder.png?raw=true)
+
+#10. <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1l160YFuNjZjELQK8IW0NlRGBLJmbq3c&ehbc=2E312F" width="640" height="480"></iframe>
