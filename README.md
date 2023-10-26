@@ -82,3 +82,9 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 ### In class today, we created a map that shows the top 20 cycling cities across the world. 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1l160YFuNjZjELQK8IW0NlRGBLJmbq3c&ehbc=2E312F" width="640" height="480"></iframe>
+
+### 11.
+### My map focuses on the top 5 beaches in Europe, defining their prominence based on a holistic evaluation of cleanliness, tourist appeal, and natural beauty. By taking into account these key criteria, it offers a comprehensive guide for beachgoers and travelers seeking the ideal coastal destinations. The cleanliness factor ensures pristine and environmentally-friendly shores, promoting a healthy and enjoyable beach experience. Tourist attraction assesses the amenities, cultural vibrancy, and accessibility of each beach, making them appealing to a wide range of visitors. Meanwhile, the element of nature emphasizes the intrinsic beauty and ecological significance of these coastal areas, underscoring their unique and breathtaking landscapes. In combining these three aspects, the map provides a well-rounded perspective, guiding you to Europe's finest beaches for an unforgettable seaside adventure.
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1euZVD3fKrj-UUoFBhhCbx5WqrR1kzpY&ehbc=2E312F" width="640" height="480"></iframe>
+
