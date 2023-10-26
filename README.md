@@ -78,5 +78,7 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 ![infographic6](https://github.com/avagsokich/avagsokich.github.io/blob/main/Household_Income_in_Thousands_and_%25_of_Students_Attend_College_Percentage_of_Students_Going_to_College__chartbuilder.png?raw=true)
 
-###10.
+### 10.
+### In class today, we created a map that shows the top 20 cycling cities across the world. 
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1l160YFuNjZjELQK8IW0NlRGBLJmbq3c&ehbc=2E312F" width="640" height="480"></iframe>
