@@ -98,10 +98,10 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 ### 12. College Universities Differing Degree Programs 
 
 ### Motivation:
-The motivation behind this project is to assist individuals, like the author, who are considering pursuing higher education. When considering further education, one of the crucial decisions is choosing the right university, and knowing which universities offer the desired degree programs is a fundamental step in this process. This project aims to provide valuable insights into the availability of master's and doctoral degree programs across various universities, helping prospective students make informed decisions about their academic future.
+The motivation behind this project is to assist individuals, like myself, who are considering pursuing higher education. When considering further education, one of the crucial decisions is choosing the right university and knowing which universities offer desired degree programs. This project aims to provide valuable insights into the availability of master's and doctoral degree programs across various universities, helping prospective students make informed decisions about their academic future.
 
 ### Background Information:
-In today's competitive job market, advanced degrees such as master's and doctoral programs can provide a significant advantage. However, selecting the right university for these programs can be a challenging task. The availability of programs varies widely from one institution to another, with differences in fields of study, location, faculty, and research opportunities. This project aims to provide a comprehensive overview of universities offering these programs.
+In today's competitive job market, advanced degrees such as master's and doctoral programs can provide a significant advantage. However, selecting the right university for these programs can be a challenging task. The availability of programs varies widely from one institution to another, with differences in fields of study, location, size, and research opportunities. This project aims to provide a comprehensive overview of universities offering these programs.
 
 ### Methodology:
 To gather the data, I used the database from class that contained various universities and their degree offerings. Covering a wide range of institutions worldwide this comprehensive dataset includes information about the universities, the degree programs they offer, and details about size, location, and private / public institution. 
