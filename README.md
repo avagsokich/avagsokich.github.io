@@ -95,7 +95,29 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 
 
-### 12. 
+### 12. College Universities Differing Degree Programs 
+
+### Motivation:
+The motivation behind this project is to assist individuals, like the author, who are considering pursuing higher education. When considering further education, one of the crucial decisions is choosing the right university, and knowing which universities offer the desired degree programs is a fundamental step in this process. This project aims to provide valuable insights into the availability of master's and doctoral degree programs across various universities, helping prospective students make informed decisions about their academic future.
+
+### Background Information:
+In today's competitive job market, advanced degrees such as master's and doctoral programs can provide a significant advantage. However, selecting the right university for these programs can be a challenging task. The availability of programs varies widely from one institution to another, with differences in fields of study, location, faculty, and research opportunities. This project aims to provide a comprehensive overview of universities offering these programs.
+
+### Methodology:
+To gather the data, I used the database from class that contained various universities and their degree offerings. Covering a wide range of institutions worldwide this comprehensive dataset includes information about the universities, the degree programs they offer, and details about size, location, and private / public institution. 
+
+### Findings:
+The data analysis revealed a diverse landscape of universities offering master's and doctoral degree programs. The findings include: Universities offer a wide variety of master's and doctoral programs. The availability of programs varies by region, with some regions having a higher concentration of institutions offering these degrees.
+
+### Implications:
+The findings of this project have several implications for individuals contemplating further education:
+
+Informed Decision-Making: Prospective students can use this data to make informed decisions about which universities offer programs aligned with their academic and career goals.
+Diversity of Options: The data showcases the diversity of institutions offering advanced degree programs, allowing students to explore a wide array of options.
+Geographic Considerations: Those with specific location preferences can identify universities in their desired region offering the programs of interest.
+
+In summary, this project provides valuable information to individuals who are considering continuing their education by offering insights into the availability of master's and doctoral degree programs across different universities. Making an informed decision about where to pursue higher education is a crucial step in one's academic and career journey, and this project aims to simplify that process.
+
 
 <div class='tableauPlaceholder' id='viz1699902966472' style='position: relative'><noscript><a href='#'><img alt='College Universities and their Differing Degree Programs ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GT&#47;GT5TTSQ4N&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;GT5TTSQ4N' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GT&#47;GT5TTSQ4N&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1699902966472'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
