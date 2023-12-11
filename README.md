@@ -51,7 +51,7 @@ In my timeline project, I trace the fascinating evolution of Apple from its humb
 
 ### 6. Pharmaceutical Companies Revenue for 2022
 
-### Source: ![_FiercePharma_](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue)
+### Source: **[_FiercePharma_](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue)**
 
 ### I collected data on pharmaceutical companies as part of my research and career exploration in the field of life sciences. My interest in this industry was sparked during my internship with a healthcare company last summer, where I gained valuable insights into the intricate workings of the pharmaceutical sector. Through data collection, I aimed to deepen my understanding of the industry's trends and market dynamics, as I am passionate about contributing to advancements in healthcare and potentially pursuing a career in life sciences. This experience has allowed me to connect my academic pursuits with real-world insights, further solidifying my commitment to this field.
 
